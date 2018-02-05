@@ -21,10 +21,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="129" column="54" lean-forward="false" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
+            <state relative-caret-position="342">
+              <caret line="106" column="44" lean-forward="false" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
               <folding>
-                <element signature="e#12104#12110#0" expanded="true" />
+                <element signature="e#12695#12701#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -262,7 +262,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511469387112</updated>
       <workItem from="1511469388342" duration="25346000" />
-      <workItem from="1517808365384" duration="1687000" />
+      <workItem from="1517808365384" duration="2009000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1511470808799</created>
@@ -306,11 +306,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517809322926</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update icons">
+      <created>1517810064686</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1517810064686</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27033000" />
+    <option name="totallyTimeSpent" value="27355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="2584" height="1464" extended-state="6" />
@@ -347,7 +354,8 @@
     <MESSAGE value="Add workspace.xml" />
     <MESSAGE value="Update index.html" />
     <MESSAGE value="Add projects section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add projects section" />
+    <MESSAGE value="Update icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -359,7 +367,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12104#12110#0" expanded="true" />
+            <element signature="e#12695#12701#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -431,10 +439,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="129" column="54" lean-forward="false" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
+        <state relative-caret-position="342">
+          <caret line="106" column="44" lean-forward="false" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
           <folding>
-            <element signature="e#12104#12110#0" expanded="true" />
+            <element signature="e#12695#12701#0" expanded="true" />
           </folding>
         </state>
       </provider>
