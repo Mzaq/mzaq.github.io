@@ -21,10 +21,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="142" column="35" lean-forward="true" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+            <state relative-caret-position="487">
+              <caret line="129" column="54" lean-forward="false" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
               <folding>
-                <element signature="e#12016#12022#0" expanded="true" />
+                <element signature="e#12104#12110#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,7 +33,7 @@
       <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/font-awesome/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
+            <state relative-caret-position="4582">
               <caret line="3" column="18837" lean-forward="false" selection-start-line="3" selection-start-column="18837" selection-end-line="3" selection-end-column="18837" />
               <folding />
             </state>
@@ -262,7 +262,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511469387112</updated>
       <workItem from="1511469388342" duration="25346000" />
-      <workItem from="1517808365384" duration="924000" />
+      <workItem from="1517808365384" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1511470808799</created>
@@ -299,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511507141194</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add projects section">
+      <created>1517809322926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517809322926</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26270000" />
+    <option name="totallyTimeSpent" value="27033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="2584" height="1464" extended-state="6" />
@@ -339,7 +346,8 @@
     <MESSAGE value="Initialize index" />
     <MESSAGE value="Add workspace.xml" />
     <MESSAGE value="Update index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update index.html" />
+    <MESSAGE value="Add projects section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add projects section" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -351,7 +359,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12016#12022#0" expanded="true" />
+            <element signature="e#12104#12110#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -394,13 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
           <caret line="4" column="18414" lean-forward="false" selection-start-line="4" selection-start-column="18414" selection-end-line="4" selection-end-column="18414" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/font-awesome/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="18837" lean-forward="false" selection-start-line="3" selection-start-column="18837" selection-end-line="3" selection-end-column="18837" />
           <folding />
         </state>
       </provider>
@@ -420,12 +421,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4582">
+          <caret line="3" column="18837" lean-forward="false" selection-start-line="3" selection-start-column="18837" selection-end-line="3" selection-end-column="18837" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="142" column="35" lean-forward="true" selection-start-line="142" selection-start-column="35" selection-end-line="142" selection-end-column="35" />
+        <state relative-caret-position="487">
+          <caret line="129" column="54" lean-forward="false" selection-start-line="129" selection-start-column="54" selection-end-line="129" selection-end-column="54" />
           <folding>
-            <element signature="e#12016#12022#0" expanded="true" />
+            <element signature="e#12104#12110#0" expanded="true" />
           </folding>
         </state>
       </provider>
